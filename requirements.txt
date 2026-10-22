@@ -1,0 +1,8 @@
+
+streamlit
+opencv-python
+mysql-connector-python
+python-dotenv
+numpy
+pandas
+
